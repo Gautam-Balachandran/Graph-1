@@ -1,4 +1,4 @@
-﻿# Time Complexity : O(mxn), where mxn is the size of the maze
+﻿# Time Complexity : O(mxn)(m+n), where mxn is the size of the maze
 # Space Complexity : O(mxn)
 
 from collections import deque
